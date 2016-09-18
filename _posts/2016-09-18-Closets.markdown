@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Closets"
+date:   2016-09-18 13:30:00
+imageUrl: "/assets/closets/closets (1).jpg"
+categories: closets, cupboards
+---
+![alt text]({{ site.url }}/assets/closets/closets (1).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (2).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (3).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (4).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (5).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (6).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (7).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (8).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (9).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (10).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (11).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (12).jpg) 
+
+![alt text]({{ site.url }}/assets/closets/closets (13).jpg)  
+
+**_Please contact [dawidbduplessis@gmail.com](mailto: dawidbduplessis@gmail.com)_**
